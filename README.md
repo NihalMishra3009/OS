@@ -1,12 +1,58 @@
-# 🖥️ Operating System Lab Practicals
+# 🖥️ Operating System Lab Manual
 
-**Department:** Artificial Intelligence & Data Science  
-**Course:** Operating System Lab  
-**Platform:** Ubuntu 24.04 LTS (VirtualBox)  
+> Practical implementation of core Operating System concepts using Ubuntu Linux and C Programming.
 
 ---
 
-## 👤 Author
+# 📌 Overview (Brief)
+
+This repository contains the complete implementation of Operating System lab experiments performed using Ubuntu 24.04 LTS in Oracle VirtualBox.
+
+The experiments focus on understanding operating system concepts through practical execution using Linux commands and C programming.
+
+---
+
+# 📚 Introduction to Syllabus
+
+The Operating System Lab syllabus is designed to provide hands-on exposure to:
+
+- Linux file system operations  
+- File permissions and inode structure  
+- Process creation and management  
+- CPU scheduling algorithms  
+- Deadlock handling using Banker’s Algorithm  
+- Memory management techniques  
+- Page replacement algorithms  
+- Shell scripting  
+- System-level programming in C  
+
+The primary objective of this lab is to bridge theoretical OS concepts with real system-level implementation.
+
+---
+
+# ⚙️ Environment Setup
+
+## 💻 Virtualization Software
+- Oracle VirtualBox
+
+## 🐧 Operating System
+- Ubuntu 24.04 LTS (64-bit)
+
+## 🛠 VM Configuration
+- RAM: 4–6 GB  
+- CPU: 2 Cores  
+- Storage: 25–30 GB  
+- Graphics Controller: VBoxSVGA  
+- 3D Acceleration: Disabled  
+
+## 🧰 Tools Used
+- GCC Compiler  
+- Linux Terminal  
+- Nano Editor  
+
+---
+
+# 👤 Author
 
 **Name:** Nihal Mishra  
 **Program:** B.E. – Artificial Intelligence & Data Science  
@@ -14,7 +60,7 @@
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Us
 
 - 🔗 GitHub: https://github.com/NihalMishra3009  
 - 💼 LinkedIn: https://www.linkedin.com/in/nihal-mishra3009/  
@@ -22,51 +68,10 @@
 
 ---
 
-# 📌 Overview
+# 🏁 Conclusion
 
-This repository contains all Operating System laboratory experiments performed using Ubuntu Linux inside Oracle VirtualBox.
+The Operating System Lab provided comprehensive practical exposure to fundamental operating system concepts. Through hands-on experimentation in Ubuntu Linux, various system-level mechanisms such as process scheduling, deadlock avoidance, memory management, and file system operations were implemented and analyzed.
 
-The practicals cover:
+These practical sessions strengthened understanding of how operating systems manage resources, schedule processes, handle memory, and maintain system stability. The integration of Linux command-line operations with C programming enhanced problem-solving abilities and system programming skills.
 
-- Basic Linux Commands  
-- File & Directory Management  
-- File Permissions & Inode  
-- Process Management  
-- CPU Scheduling Algorithms  
-- Deadlock Handling (Banker’s Algorithm)  
-- Memory Management (Paging)  
-- Shell Scripting  
-
-All programs and commands are tested and executed in Ubuntu Terminal.
-
----
-
-# ⚙️ Environment Setup
-
-## Virtualization Software
-- Oracle VirtualBox
-
-## Operating System
-- Ubuntu 24.04 LTS (64-bit)
-
-## VM Configuration
-- RAM: 4–6 GB  
-- CPU: 2 Cores  
-- Storage: 25–30 GB  
-- Graphics Controller: VBoxSVGA  
-- 3D Acceleration: Disabled  
-
----
-
-# 📂 Experiment 1 – Basic Linux Commands
-
-## 🎯 Aim
-To study and perform basic Linux commands for file and directory operations in Ubuntu Linux.
-
----
-
-## 📘 Commands Performed
-
-### Check Present Working Directory
-```bash
-pwd
+Overall, the lab successfully bridged theoretical knowledge with real-world system implementation, developing a strong foundation in operating system concepts.
